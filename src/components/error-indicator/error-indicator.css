@@ -1,0 +1,10 @@
+.error-indicator {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: burlywood;
+    font-size: 20px
+}
+.error-indicator .boom {
+    display: block
+}
